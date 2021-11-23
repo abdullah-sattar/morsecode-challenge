@@ -1,4 +1,4 @@
-const object = {
+export const object = {
     a: ".-",
     b: "-...",
     c: "-.-.",
