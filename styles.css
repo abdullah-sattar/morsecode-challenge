@@ -1,0 +1,27 @@
+html {
+  width: 100%;
+  background-color: bisque;
+}
+
+div {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  gap: 2vh;
+}
+div h1 {
+  align-self: center;
+}
+div button {
+  width: 20vh;
+  align-self: center;
+  padding: 1vh;
+}
+div textarea {
+  background-color: aliceblue;
+  width: 40vh;
+}
+
+* {
+  font-family: "Courier New", Courier, monospace;
+}

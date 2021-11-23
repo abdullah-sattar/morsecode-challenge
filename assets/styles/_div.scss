@@ -1,0 +1,21 @@
+div {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    gap: 2vh;
+
+    h1 {
+        align-self: center;
+    }
+
+    button {
+        width: 20vh;
+        align-self: center;
+        padding: 1vh;
+    }
+
+    textarea {
+        background-color: aliceblue;
+        width: 40vh;
+    }
+}
