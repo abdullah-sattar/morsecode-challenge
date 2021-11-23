@@ -1,8 +1,12 @@
+//import test function from the translator file
+//import it and expect function from the globals
+
 import { translateMorse } from "./translator.js";
 import { it, expect } from '@jest/globals';
 import { describe } from "yargs";
 
-
+//write out tests to make sure translator function is working correctly
+//should include single letter translations as well as individual and multiple words
 it("it should translate a to .- ", () => {
     const result = translateMorse("a");
     expect(result).toBe(".- ");
