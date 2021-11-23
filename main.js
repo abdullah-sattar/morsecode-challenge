@@ -41,7 +41,6 @@ const translateMorse = (msg) => {
 };
 
 const translateClick = translateBtn.addEventListener("click", () => {
-    console.log("wagwan");
     morse.value = translateMorse(english.value);
 });
 
