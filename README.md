@@ -1,6 +1,6 @@
 # Morse Code Translator
 
-![Translator](C:\Users\abdul_000\Documents\coursework\morseCode-challenge\Capture.PNG)
+![Translator](https://github.com/abdullah-sattar/morsecode-challenge/blob/master/Capture.PNG)
 ## The Design
 I took a mobile-first approach with the aim of creating a responsive design. The design is fairly simplistic with two textarea elements, a translate button and a title. I applied flexbox on the container arranging the items in a column while being centred on the page.
 
